@@ -1,0 +1,23 @@
+<mxlibrary>[
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"verticalLabelPosition=middle;verticalAlign=middle;html=1;shape=mxgraph.basic.polygon;polyCoords=[[0.5,0],[0.5,0],[1,0.3],[1,1],[0.75,1],[0,1],[0,0.75],[0,0.3]];polyline=0;horizontal=1;labelPosition=center;align=center;fillColor=#d5e8d4;strokeColor=#000000;shadow=1;whiteSpace=wrap;points=[[0.5,0.01,0,0,0],[0.5,1,0,0,0]];\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"100\" height=\"100\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 100,
+    "h": 100,
+    "aspect": "fixed",
+    "title": "Goal"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"shape=stencil(tZTbbsMgDIafhtuJgybldsq296Cpu6BSQMDa7e3nhEQq6SDTlERRItv4828BJqINvXRAOO2JeCWcM0rxi/ZtYcvgoIvJeZVeyYOGFAnR2zPc1DFODGV68CoOUfFG6AuuGV7RdtYYhChrQha5iyNMKoO59CvBpvLfmeWQf4EIfhKZvIS//x379LwPmO2kN8fO6jfXux04V8z22rjNwOz/WNGip3S4RXuQ3fnD209z/FUMaK1cgJUjv7yPy/taavWktO6sth7N9B/zCBcnfJqm0lFBNzKth0pDQ8k0FCq69u16tbyTw7R6CMzhi73eSWO5Nl4tPiO0MmVEs6If/QWFld7GtIe9Gb1pyo+OHw==);whiteSpace=wrap;html=1;points=[[0,0.5,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[1,0.5,0,0,0]];shadow=1;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"170\" height=\"80\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 170,
+    "h": 80,
+    "aspect": "fixed",
+    "title": "Type of Organization Unit"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"shape=stencil(tZP/DoIgEMefhn8bynqARvUeqGcyFRyS1tsHops/wGqtzbHdfeFzx5cTEdoWrAEU4wKRM4rjCGOzmrhfxaxtINUu2THFWVKBU1qtZAk9z/TI4KIAxbVVyQXhk9ljP0JTKYSBcCnahTLTDYxxYc7ih4Phw9GVeY6xixpToQYNamzTZVF8/Ry8xE5lfgdH/wKvrYi+ARNqMqEHIDRhaXlT8i4ybzvKvn3IOv/ArAfK21CgLKG5VLDTT86rys3djodvNzTMjuxGmORadjB7Vu+t/eiJUHERJgSdmfkT6HDnbsOxjXtD1v3qQ+IF);whiteSpace=wrap;html=1;fillColor=#FFFF88;strokeColor=#000000;shadow=1;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"150\" height=\"60\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 150,
+    "h": 60,
+    "aspect": "fixed",
+    "title": "Job Title"
+  }
+]</mxlibrary>
